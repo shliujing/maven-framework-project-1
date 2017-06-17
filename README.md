@@ -1,3 +1,5 @@
+不考虑
+
 # maven-framework-project
 
 ### 该项目不再更新维护，请移步[https://github.com/v5developer/maven-framework-project](https://github.com/v5developer/maven-framework-project)
